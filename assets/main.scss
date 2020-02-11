@@ -27,7 +27,17 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.description-header{
+  display: inline-block;
+  padding-top: 1.5em;
+  margin-bottom: 3em;
+  color: grey;
+}
 
+.boldDesc{
+  display: inline;
+  color: #CC5A71;
+}
 
 // whiteglass also includes a mixin for defining media queries.
 // Use media queries like this:
