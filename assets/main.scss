@@ -27,16 +27,41 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+
+//------- HEADER ------- //
+
 .description-header{
   display: inline-block;
   padding-top: 1.5em;
-  margin-bottom: 3em;
+  margin-bottom: 0.4em;
   color: grey;
 }
 
 .boldDesc{
   display: inline;
   color: #CC5A71;
+}
+
+.social-links{
+  margin-bottom: 3em;
+}
+
+.social-links a{
+  padding-right: 2em;
+}
+
+.social-links a:hover{
+  text-decoration: none;
+}
+
+.linkedin-logo:hover{
+  fill: #2867B2;
+  cursor: pointer;
+}
+
+.github-logo:hover{
+  fill: #F1502F;
+  cursor: pointer;
 }
 
 // whiteglass also includes a mixin for defining media queries.
