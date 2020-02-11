@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clarity vs. friction in Technical Writing"
-categories: tech-writing
+categories: techWriting
 ---
 
 I believe that everyone who works with technical writing should read something about instructional design at some point. If not to become an instructional designer, at least to grab a picture of the techniques used to teach adults. After all, in the end of the day that’s what we’re doing.
