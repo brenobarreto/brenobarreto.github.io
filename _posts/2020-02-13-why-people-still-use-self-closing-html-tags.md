@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why people still use self-closing tags like <br/>"
+title:  "Why people still use self-closing HTML tags like <br/>"
 categories: weby-nuggets
 excerpt: "XHTML has not been used for a long time, but a lot of people still use something inherited from it and completely ignored by browsers: self-closing tags."
 ---
