@@ -24,7 +24,7 @@ script:
     rm -f jekyll.pid
 branches:
   only:
-    - master
+    - release
 deploy:
   provider: pages
   skip-cleanup: true
@@ -33,4 +33,4 @@ deploy:
   local-dir: _site
   target-branch: master
   on:
-    branch: master
+    branch: release
