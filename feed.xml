@@ -5,7 +5,7 @@
   
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-02-13T17:48:27+00:00</updated>
+  <updated>2020-02-13T18:07:10+00:00</updated>
   <id>//</id>
 
   
@@ -129,6 +129,90 @@
 
       
         <summary type="html">I believe that everyone who works with technical writing should read something about instructional design at some point. If not to become an instructional designer, at least to grab a picture of the techniques used to teach adults. After all, in the end of the day that’s what we’re doing.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Hungry lazy users</title>
+      
+      
+      <link href="/2020/02/06/hungry-lazy-users/" rel="alternate" type="text/html" title="Hungry lazy users" />
+      
+      <published>2020-02-06T00:00:00+00:00</published>
+      <updated>2020-02-06T00:00:00+00:00</updated>
+      <id>/2020/02/06/hungry-lazy-users</id>
+      <content type="html" xml:base="/2020/02/06/hungry-lazy-users/">&lt;p&gt;That cute initialism RTFM (&lt;em&gt;Read The Fucking Manual&lt;/em&gt;) has been around at least since the 80s, which shows that the resistance of users to read documentation is far from recent.&lt;/p&gt;
+
+&lt;p&gt;With the web reaching a maturity phase, however (has it?), the key behavioral component of that scenario shines each time brighter: “people do not search for information with the intellect of a research librarian, but with the nose of a predator”, as Mark Baker nicely said in &lt;a href=&quot;http://everypageispageone.com/&quot;&gt;Every page is page one&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Such exploratory behavior, rather than a linear search for information, resembles the optimal foraging patterns of wild animals, which is why Peter Pirolli named his book &lt;a href=&quot;https://en.wikipedia.org/wiki/Information_foraging&quot;&gt;Information foraging theory&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It means that whenever a user searches the web for an answer, they will choose a path that brings them the greatest amount of information through the least possible effort.&lt;/p&gt;
+
+&lt;p&gt;So if your website has a whole page with a 15-scrolls wall of text explaining how to use your API but all your user wants is to copy and paste an endpoint, they will probably search Google for it and — after finding the 1-line answer in Stack Overflow — that’s what they’ll go for.&lt;/p&gt;
+
+&lt;p&gt;Using Mark Baker’s terminology, there’s no point in providing &lt;strong&gt;nutritious meal&lt;/strong&gt; if it’s not an &lt;strong&gt;easy catch&lt;/strong&gt;.
+Let’s check out a case study.&lt;/p&gt;
+
+&lt;p&gt;Say you are a new GitHub user and you forgot to verify your email address. Now you can’t find the original message, so you need to receive that email once again.&lt;/p&gt;
+
+&lt;p&gt;You could go directly to GitHub Help page, but you’re very likely to try Google first.&lt;/p&gt;
+
+&lt;p&gt;Why? Because we know Google is incredibly good in doing something that &lt;a href=&quot;https://www.amazon.com/Too-Big-Know-Rethinking-Everywhere/dp/0465085962&quot;&gt;David Weinberger&lt;/a&gt; points out as a core feature of the web: “include everything and filter it afterwards”.&lt;/p&gt;
+
+&lt;p&gt;We know Google has (almost) all the information that is. And we know that it will (probably) do a good job in finding what we need in the midst of all that information.&lt;/p&gt;
+
+&lt;p&gt;So, knowing that, let’s take that path — meaning: let’s go for the least effort. You reach Google and enter something like: “resend verification github email”. And this is what it brings you:
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resend-github-verification-email.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You see that:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Yes, Google found exactly the information you needed.&lt;/li&gt;
+  &lt;li&gt;You don’t even have to scroll down. It’s all there, inside 8 square inches.&lt;/li&gt;
+  &lt;li&gt;It’s inside a box. Although there’s more information below, Google is telling you that this box is where you need to look.&lt;/li&gt;
+  &lt;li&gt;There’s an image there to help you immediately recognize the position of the button you need.&lt;/li&gt;
+  &lt;li&gt;It’s a step-by-step procedure, so you may scan and infer actions rather than read and learn the whole topic.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So what Google is doing here is realize that:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You won’t read; you will scan.&lt;/li&gt;
+  &lt;li&gt;If the information is not completely there, you will leave.&lt;/li&gt;
+  &lt;li&gt;If the information is not easily catchable, you will search for it elsewhere.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Does it all mean we no longer read books or manuals or even help centers when we have questions about a product?&lt;/p&gt;
+
+&lt;p&gt;Well, if the same answers may be found more easily, yes it does. And that’s good.&lt;/p&gt;
+
+&lt;p&gt;What we need to do is understand there’s no such thing as a linear or hierarchical information path capable of surpassing the hypertextual nature of the web. Whatever bit of information on which the user lands needs to be rich and simple enough for them to stay.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="tech-writing" />
+      
+
+      
+
+      
+        <summary type="html">'People dont search for information with the intellect of a research librarian, but with the nose of a predator', says Mark Baker in Every Page is Page One .</summary>
       
 
       
