@@ -17,7 +17,7 @@ Note that the forward slash in this case is after the `br`, not before. This act
 
 Self-closing tags like this come from the long-forgotten [XHTML](https://www.w3.org/TR/xhtml1/), which was an attempt raised by W3C to extend HTML using the syntax of **XML** rather than [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) - the original standard in which HTML was based. Until HTML5, there was still an attempt to define HTML as an SGML application, but HTML5 left that aattempt behind. (HTML4 was still defined by W3C as "an SGML application conforming to International Standard ISO 8879".)
 
-The thing is XML is much more strict than HTML. For instance, if there is any error in an XML document, the entire document will simply not be rendered. Although there are advantages there, I can only imagine that a web based on XML would be constantly half broken. 
+The thing is XML is much more strict than HTML. For instance, if there is any error in an XML document, the entire document will simply not be rendered. Although there are advantages there, I can only imagine that a web based on XML would be constantly half broken.
 
 In its strictness, XML requires that every opening tag _must_ have a corresponding closing tag, no matter if it's a container or not. So you would write `<br></br>`, which can be abbreviated by using `<br/>`. Both mean the same.
 
