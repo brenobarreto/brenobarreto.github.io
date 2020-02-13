@@ -1,4 +1,288 @@
----
-layout: feed
-author: "Breno Barreto"
----
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="3.8.6">Jekyll</generator>
+  
+  
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-02-13T17:38:15+00:00</updated>
+  <id>//</id>
+
+  
+    <title type="html">breno barreto</title>
+  
+
+  
+    <subtitle>Hi there! My name is Breno and I'm the Lead Technical Writer at VTEX,  currently based in Rio de Janeiro. Here I write about stuff that interest me,  which typically revolves around content and software development - and how these things relate.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">Why people still use self-closing HTML tags like</title>
+      
+      
+      <link href="/2020/02/13/why-people-still-use-self-closing-html-tags/" rel="alternate" type="text/html" title="Why people still use self-closing HTML tags like &lt;br/&gt;" />
+      
+      <published>2020-02-13T00:00:00+00:00</published>
+      <updated>2020-02-13T00:00:00+00:00</updated>
+      <id>/2020/02/13/why-people-still-use-self-closing-html-tags</id>
+      <content type="html" xml:base="/2020/02/13/why-people-still-use-self-closing-html-tags/">&lt;p&gt;HTML has two types of tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Container tags&lt;/strong&gt;: the tags that need information inside. Because of that, you need to inform where the element starts and where it ends. For example, if you’d write a paragraph, you would type something lile &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;Hello World&amp;lt;/p&amp;gt;&lt;/code&gt;, where &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; is the opening paragraph tag and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/p&amp;gt;&lt;/code&gt; is the closing paragraph tag.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Empty tags&lt;/strong&gt;: these are the ones that don’t need any information inside. For example, in case you want to break a line, you just type &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;. There is nothing to be contained there, so you don’t need a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/br&amp;gt;&lt;/code&gt; (there is no such thing in HTML).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OK, pretty basic stuff.&lt;/p&gt;
+
+&lt;p&gt;And then we see all over the web things like &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br/&amp;gt;&lt;/code&gt;. What the heck is that?&lt;/p&gt;
+
+&lt;p&gt;Note that the forward slash in this case is after the &lt;code class=&quot;highlighter-rouge&quot;&gt;br&lt;/code&gt;, not before. This actually means &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&lt;/code&gt;, which we’ve just that makes no sense. And it doesn’t.&lt;/p&gt;
+
+&lt;p&gt;Self-closing tags like this come from the long-forgotten &lt;a href=&quot;https://www.w3.org/TR/xhtml1/&quot;&gt;XHTML&lt;/a&gt;, which was an attempt raised by W3C to extend HTML using the syntax of &lt;strong&gt;XML&lt;/strong&gt; rather than &lt;a href=&quot;https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language&quot;&gt;SGML&lt;/a&gt; - the original standard in which HTML was based. Until HTML5, there was still an attempt to define HTML as an SGML application, but HTML5 left that aattempt behind. (HTML4 was still defined by W3C as “an SGML application conforming to International Standard ISO 8879”.)&lt;/p&gt;
+
+&lt;p&gt;The thing is XML is much more strict than HTML. For instance, if there is any error in an XML document, the entire document will simply not be rendered. Although there are advantages there, I can only imagine that a web based on XML would be constantly half broken.&lt;/p&gt;
+
+&lt;p&gt;In its strictness, XML requires that every opening tag &lt;em&gt;must&lt;/em&gt; have a corresponding closing tag, no matter if it’s a container or not. So you would write &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&lt;/code&gt;, which can be abbreviated by using &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br/&amp;gt;&lt;/code&gt;. Both mean the same.&lt;/p&gt;
+
+&lt;p&gt;HTML5 doesn’t complain if it sees a self-closing tag like that, but only to keep compatibility. What actually happens under the hood is that the forward slash is ignored.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="weby-nuggets" />
+      
+
+      
+
+      
+        <summary type="html">XHTML has not been used for a long time, but a lot of people still use something inherited from it and completely ignored by browsers: self-closing tags.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Clarity vs. friction in Technical Writing</title>
+      
+      
+      <link href="/2020/02/10/clarity-vs-friction-in-technical-writing/" rel="alternate" type="text/html" title="Clarity vs. friction in Technical Writing" />
+      
+      <published>2020-02-10T00:00:00+00:00</published>
+      <updated>2020-02-10T00:00:00+00:00</updated>
+      <id>/2020/02/10/clarity-vs-friction-in-technical-writing</id>
+      <content type="html" xml:base="/2020/02/10/clarity-vs-friction-in-technical-writing/">&lt;p&gt;I believe that everyone who works with technical writing should read something about instructional design at some point. If not to become an instructional designer, at least to grab a picture of the techniques used to teach adults. After all, in the end of the day that’s what we’re doing.&lt;/p&gt;
+
+&lt;p&gt;So for the past two months I’ve been leafing through books and articles that try to recommend ways to design, implement, and evaluate learning experiences, in hopes of finding insights that help me in my job. And insights I’ve found.&lt;/p&gt;
+
+&lt;p&gt;One of them made me contrast two of our daily efforts: first, the one to be as clear, concise, and straightforward as possible; second, the one to escape boredom and create enough friction to make the learning experience more interactive and take the learner out of her passive position, stimulating the cognitive load.&lt;/p&gt;
+
+&lt;p&gt;Some of the ways in which such friction may be created, according to the author of &lt;em&gt;Design for how people learn&lt;/em&gt;, are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tell stories;&lt;/li&gt;
+  &lt;li&gt;Surprise the learner;&lt;/li&gt;
+  &lt;li&gt;Create social interaction;&lt;/li&gt;
+  &lt;li&gt;Show the learner “shiny things”;&lt;/li&gt;
+  &lt;li&gt;Make the learner explain the subject.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, how do we do any of these without losing clarity or at least objectivity? Is it possible to tell stories in documentation? Is it feasible to expect the learner to engage in the learning experience with a more active approach?&lt;/p&gt;
+
+&lt;p&gt;I believe it is, but only to a certain point.&lt;/p&gt;
+
+&lt;p&gt;When we’re dealing with a classroom or a textbook, the list of strategies that may be applied feeds on a variety of techniques that take into account the way our brain works. These strategies will tell you to turn the conventional teaching approaches upside down, and some of them are so counterintuitive that I’m often tempted to try them.&lt;/p&gt;
+
+&lt;p&gt;However, the technical writer has much more limited wiggle room. And I see one main reason for that: we are usually dealing with a learner who has no time to lose.&lt;/p&gt;
+
+&lt;p&gt;Chances are she has an urgent matter in hands and wishes for a direct answer that simply solves her problem, which makes it hard for us to focus on long-term memory, cognitive load, and other fancy stuff. What the learner expects is words in just the right form and amount to make her perform an action.&lt;/p&gt;
+
+&lt;p&gt;That doesn’t mean we have no room at all to try and get our users through a richer learning experience. But we always need to consider the expected effect. If you’re working on troubleshooting content, go for clarity and avoid experiments.&lt;/p&gt;
+
+&lt;p&gt;But if you’re building a Getting Started tutorial, maybe you can find ways to insert a story, a surprising hands-on experience, or even some humor. It will just take more creativity than usual.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="tech-writing" />
+      
+
+      
+
+      
+        <summary type="html">I believe that everyone who works with technical writing should read something about instructional design at some point. If not to become an instructional designer, at least to grab a picture of the techniques used to teach adults. After all, in the end of the day that’s what we’re doing.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">What UX Writing is not</title>
+      
+      
+      <link href="/2020/02/03/what-ux-writing-is-not/" rel="alternate" type="text/html" title="What UX Writing is not" />
+      
+      <published>2020-02-03T00:00:00+00:00</published>
+      <updated>2020-02-03T00:00:00+00:00</updated>
+      <id>/2020/02/03/what-ux-writing-is-not</id>
+      <content type="html" xml:base="/2020/02/03/what-ux-writing-is-not/">&lt;p&gt;In times of buzzwords colonizing the market and driving people to rethink their careers, I usually find it useful first of all to clear the air by stating precisely what we’re talking about — and, just as important, what it is that we are not talking about.&lt;/p&gt;
+
+&lt;p&gt;The Google Trends chart below shows the growing interest in the term “UX Writing” in recent years — an interest motivated by content professionals who see a new way of contributing more directly to digital product creation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ux-writing-trend.png&quot; alt=&quot;UX Writing Trends&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But this interest is followed by a great deal of uncertainty.&lt;/p&gt;
+
+&lt;p&gt;In a market where new names come up all the time and where boundaries between areas and competencies change from company to company, content professionals themselves use fluid classifications to define their own work.&lt;/p&gt;
+
+&lt;h2 id=&quot;ux-writing-is-not-content-strategy&quot;&gt;UX Writing is not Content Strategy&lt;/h2&gt;
+
+&lt;p&gt;The first thing UX Writing is not is Content Strategy.&lt;/p&gt;
+
+&lt;p&gt;Content Strategy has a global scope within the company. Among other things, it:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Maps all company channels, audiences and messages;&lt;/li&gt;
+  &lt;li&gt;Creates standard resources (Content Style Guide, Voice and Tone Guide, Glossary);&lt;/li&gt;
+  &lt;li&gt;Ensures that all content manifestations delivered by the company are aligned with the overall strategy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The UX Writer is responsible for only one of these content manifestations, delivered to the user through the product interface.&lt;/p&gt;
+
+&lt;p&gt;As such, they must follow these standards that are set by the content strategy, just like any other content professional in the company should.&lt;/p&gt;
+
+&lt;h2 id=&quot;ux-writing-is-not-copywriting&quot;&gt;UX Writing is not Copywriting&lt;/h2&gt;
+
+&lt;p&gt;The definition of copywriting can be quite broad, but in the context of companies that develop digital products, when we talk about copywriting we are usually referring to sales-oriented content.&lt;/p&gt;
+
+&lt;p&gt;Its goal is to draw customers. And for that it needs to tell stories, use seductive phrases, be sexy.&lt;/p&gt;
+
+&lt;p&gt;UX Writing, on the other hand, has no commitment to lead attraction.&lt;/p&gt;
+
+&lt;p&gt;Through it, the product communicates with customers who are already part of the base. The goal is no longer to attract but to improve usability. Sexy words usually don’t have much to contribute to that goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;ux-writing-is-not-marketing-copy&quot;&gt;UX Writing is not Marketing Copy&lt;/h2&gt;
+
+&lt;p&gt;I see marketers getting interested in UX Writing — and I think that’s great.&lt;/p&gt;
+
+&lt;p&gt;But it’s important to make one thing clear: Marketing and UX Writing are in quite different battles — and even different battlefields. They should be integrated, of course, but their goals and methods are very distinct.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A UX Writer should be part of the product team.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Just as the developer is responsible for the code and the designer for the experience, the UX Writer must be accountable for the content that the product interface is delivering.&lt;/p&gt;
+
+&lt;p&gt;Once again, she doesn’t want to draw new users. Her goal is to improve the current user experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-is-ux-writing-then&quot;&gt;So what is UX Writing then?&lt;/h2&gt;
+
+&lt;p&gt;I like the following definition:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;UX Writing is the act of writing copy for product interfaces with the goal of improving user experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It makes it clear that we are talking about product and user experience. Which means:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It’s not just any copy. It is copy that appears in the interface of a product;&lt;/li&gt;
+  &lt;li&gt;It’s not for any purpose. It aims to improve user experience.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="ux-writing" />
+      
+
+      
+
+      
+        <summary type="html">In times of buzzwords colonizing the market and driving people to rethink their careers, I usually find it useful first of all to clear the air by stating precisely what we’re talking about — and, just as important, what it is that we are not talking about.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Docs are a hard sell</title>
+      
+      
+      <link href="/2020/01/27/docs-are-a-hard-sell/" rel="alternate" type="text/html" title="Docs are a hard sell" />
+      
+      <published>2020-01-27T00:00:00+00:00</published>
+      <updated>2020-01-27T00:00:00+00:00</updated>
+      <id>/2020/01/27/docs-are-a-hard-sell</id>
+      <content type="html" xml:base="/2020/01/27/docs-are-a-hard-sell/">&lt;p&gt;Yes, documentation is a hard sell, and that might be one of the toughest challenges that lie ahead of a newly born content team.&lt;/p&gt;
+
+&lt;p&gt;In a result-driven environment like the one where every modern company lives, one thing is crutial… yes, you got it: the result. That’s fine, but not when it makes you try to skip the tough parts in order to get there faster. And maintaining a healthy documentation process is indeed a tough part.&lt;/p&gt;
+
+&lt;p&gt;So we often choose to ignore its importance, or at least to lower it as if docs were accessories which we may deal with later.&lt;/p&gt;
+
+&lt;p&gt;One of the reasons is that this result-driven environment values ​​measurable benefits, and measuring the effect of well-done documentation is hard and time-consuming work.&lt;/p&gt;
+
+&lt;p&gt;How happier did your customers become after you changed the titles from gerund to infinitive? What was the reduction in the number of open tickets after you changed the border color of the search button? Hard to tell.&lt;/p&gt;
+
+&lt;p&gt;However, it’s these and many other details that, together, transform a raw and scattered knowledge into the tool that makes your business scalable.&lt;/p&gt;
+
+&lt;p&gt;And the time to pay attention at them is now, when this knowledge is still minimally moldable.&lt;/p&gt;
+
+&lt;p&gt;The effects will not show tomorrow or next week. And maybe when they do show up, the documentation’s influence will not be clear.&lt;/p&gt;
+
+&lt;p&gt;So it may be hard to justify an effort equivalent to that used by the product team to handle the documentation. And, for the most anxious ones, it may be excruciating to wait for numbers while working day after day on commas and buttons and categories names.&lt;/p&gt;
+
+&lt;p&gt;But a product that grows without a well-structured documentation process is like a building that is built with bamboo pillars. At first it may seem possible, but if the product goes far enough, start watching for cracks.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="tech-writing" />
+      
+
+      
+
+      
+        <summary type="html">Yes, documentation is a hard sell, and that might be one of the toughest challenges that lie ahead of a newly born content team.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
