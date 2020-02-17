@@ -6,7 +6,7 @@
 
 .boldDesc {
   display: inline;
-  color: #CC5A71; }
+  color: #cc5a71; }
 
 .social-links {
   margin-bottom: 3em; }
@@ -18,12 +18,15 @@
   text-decoration: none; }
 
 .linkedin-logo:hover {
-  fill: #2867B2;
+  fill: #2867b2;
   cursor: pointer; }
 
 .github-logo:hover {
-  fill: #F1502F;
+  fill: #f1502f;
   cursor: pointer; }
+
+p {
+  line-height: 2; }
 
 /**
  * Reset some basic elements
