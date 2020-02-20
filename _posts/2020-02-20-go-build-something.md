@@ -2,6 +2,7 @@
 layout: post
 title:  "Go build something"
 categories: tech-writing
+excerpt: "It's a cliché to say the best way to learn is doing. It's also true. And if you want to be a better tech writer, there's nothing like wearing the shoes of your audience. So go build something and deal with other people's docs."
 ---
 
 Hello, dear tech writing newbie.
