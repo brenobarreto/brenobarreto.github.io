@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Manu<script> Podcast"
+title: "The Manuscript Podcast"
 permalink: /the-manuscript-podcast/
 ---
 
