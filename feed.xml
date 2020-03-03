@@ -5,7 +5,7 @@
   
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-03T18:10:35+00:00</updated>
+  <updated>2020-03-03T23:33:55+00:00</updated>
   <id>//</id>
 
   
@@ -18,6 +18,71 @@
 
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Docs done right improve your product</title>
+      
+      
+      <link href="/2020/03/02/docs-done-right-improve-your-product/" rel="alternate" type="text/html" title="Docs done right improve your product" />
+      
+      <published>2020-03-02T00:00:00+00:00</published>
+      <updated>2020-03-02T00:00:00+00:00</updated>
+      <id>/2020/03/02/docs-done-right-improve-your-product</id>
+      <content type="html" xml:base="/2020/03/02/docs-done-right-improve-your-product/">&lt;p&gt;Since I started recording episodes for my &lt;a href=&quot;/the-manuscript-podcast/&quot;&gt;podcast&lt;/a&gt;, only a few weeks ago, I’ve already had the chance to talk to some pretty amazing content people, such as &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://www.thenotboringtechwriter.com/&quot;&gt;Jacob Moses&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot;&gt;Mark Baker&lt;/a&gt; and &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt; (this last one still to be published).&lt;/p&gt;
+
+&lt;p&gt;Of course, each of them has different thoughts on many aspects of the writing job, but one thought has emerged in every one of these conversations (yeah, probably due to my own interest in it, I’ll admit). It can be summarized like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Looking at product development through a content-first lens doesn’t only improve the documentation; it improves the product itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So let’s talk a little about it. Think of a product team gathering inside a meeting room to discuss the first steps of a project that will eventually lead to a new product or feature. Who are the people inside the room? You probably see a Product Manager; maybe the CEO, if the product is really important or the company is a small startup; designers; developers; a support engineer? Maybe someone from QA? If you’re really lucky, maybe even a UX Writer.&lt;/p&gt;
+
+&lt;p&gt;You know where I’m going with this: the person you probably &lt;em&gt;won’t&lt;/em&gt; see in the room is the tech writer. And that’s not because nobody likes her, but because technical documentation is usually not seen as part of a digital product itself. Most of the time it is seen as an appendix. And when you draw a project timeline on the whiteboard and ask people where the appendix comes in, the obvious answer will be “in the end”, after everything that is core and important has been figured out.&lt;/p&gt;
+
+&lt;p&gt;And what’s funny is that many times what is really an appendix will be included first, simply because it’s easy to think about it. &lt;a href=&quot;https://en.wikipedia.org/wiki/Law_of_triviality&quot;&gt;The bike shed’s material&lt;/a&gt; before the design of the nuclear plant.&lt;/p&gt;
+
+&lt;p&gt;And what happens when the tech writer is finally called in is a series of unnecessary stumbles. After all, the feature is allegedly ready, so now the team needs to decide if:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;It will be deployed without documentation - it can be done later;&lt;/li&gt;
+  &lt;li&gt;They will hold the deploy while the writers rush to come up with something that resembles a piece of documentation (which is a poor way of working and, by the way, shows little respect for the writer’s job);&lt;/li&gt;
+  &lt;li&gt;There simply won’t be any documentation - that’s a user’s problem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Also, let’s think of something else: if she was not working on the product documentation, what was that lazy tech writer doing while the product team worked hard on developing the whole thing? Well, she was trying to cover for the inconsistencies in the previous features of the company that were also built without synchronous documentation work. Because - by not having been built with synchronous documentation work - they were born with usage gaps.&lt;/p&gt;
+
+&lt;p&gt;Now you may be pondering that ensuring good usage is the job of designers - and they &lt;em&gt;were&lt;/em&gt; in the room during that first meeting. My answer is that you are, once again, underestimating the impact of the tech writer’s work on the development of the product. Designers are definitely essential, but they are so close to the product that they can never assume the position of the user. QA engineers are also essential, but they’re there to make sure nothing will break. They are also not meant to assume the place of the user.&lt;/p&gt;
+
+&lt;p&gt;The tech writer, on the other hand, &lt;em&gt;is&lt;/em&gt; very much in the position of assuming the place of the user. In fact, &lt;strong&gt;the tech writer is usually the first user&lt;/strong&gt; of all. Only she can look at the product with the ignorance and curiosity that lead to the questions necessary to generate knowledge that matches the user’s mental model - which is to say &lt;em&gt;valuable knowledge&lt;/em&gt;. Because she is not the strategist nor the builder nor the tester. She is the learner an then the teacher. And in order to teach, she needs to use the product, not like someone who created it, but as users would.&lt;/p&gt;
+
+&lt;p&gt;So what happens when the writer is in the room is that she will learn to use the product while the product team builds it. And in doing that she will teach you what you would only be able to learn much later, after the product is deployed, through tickets sent by angry users.&lt;/p&gt;
+
+&lt;p&gt;“Tech writer” or “documentarian” are deceptive names when it comes to assessing the real impact of this position when it’s well used. Put the writer in the room and you’ll have a great ally in making a better product.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="tech-writing" />
+      
+
+      
+
+      
+        <summary type="html">Since I started recording episodes for my podcast, only a few weeks ago, I’ve already had the chance to talk to some pretty amazing content people, such as Tom Johnson, Jacob Moses, Mark Baker and Christopher Gales (this last one still to be published).</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
