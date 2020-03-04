@@ -5,7 +5,7 @@
   
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-03T23:33:55+00:00</updated>
+  <updated>2020-03-04T02:25:48+00:00</updated>
   <id>//</id>
 
   
@@ -30,7 +30,7 @@
       <published>2020-03-02T00:00:00+00:00</published>
       <updated>2020-03-02T00:00:00+00:00</updated>
       <id>/2020/03/02/docs-done-right-improve-your-product</id>
-      <content type="html" xml:base="/2020/03/02/docs-done-right-improve-your-product/">&lt;p&gt;Since I started recording episodes for my &lt;a href=&quot;/the-manuscript-podcast/&quot;&gt;podcast&lt;/a&gt;, only a few weeks ago, I’ve already had the chance to talk to some pretty amazing content people, such as &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://www.thenotboringtechwriter.com/&quot;&gt;Jacob Moses&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot;&gt;Mark Baker&lt;/a&gt; and &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt; (this last one still to be published).&lt;/p&gt;
+      <content type="html" xml:base="/2020/03/02/docs-done-right-improve-your-product/">&lt;p&gt;Since I started recording episodes for my &lt;a href=&quot;https://brenobarreto.co//the-manuscript-podcast/&quot; target=&quot;_blank&quot;&gt;podcast&lt;/a&gt;, only a few weeks ago, I’ve already had the chance to talk to some pretty amazing content people, such as &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot; target=&quot;_blank&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://www.thenotboringtechwriter.com/&quot; target=&quot;_blank&quot;&gt;Jacob Moses&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot; target=&quot;_blank&quot;&gt;Mark Baker&lt;/a&gt; and &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot; target=&quot;_blank&quot;&gt;Christopher Gales&lt;/a&gt; (this last one still to be published).&lt;/p&gt;
 
 &lt;p&gt;Of course, each of them has different thoughts on many aspects of the writing job, but one thought has emerged in every one of these conversations (yeah, probably due to my own interest in it, I’ll admit). It can be summarized like this:&lt;/p&gt;
 
@@ -76,7 +76,7 @@
       
 
       
-        <summary type="html">Since I started recording episodes for my podcast, only a few weeks ago, I’ve already had the chance to talk to some pretty amazing content people, such as Tom Johnson, Jacob Moses, Mark Baker and Christopher Gales (this last one still to be published).</summary>
+        <summary type="html">Since I started recording episodes for my podcast, only a few weeks ago, I've already had the chance to talk to some pretty amazing content people, such as Tom Johnson, Jacob Moses, Mark Baker and Christopher Gales (this last one still to be published). Of course, each of them has different thoughts on many aspects of the writing job, but one thought has emerged in every one of these conversations.</summary>
       
 
       
