@@ -2,9 +2,10 @@
 layout: post
 title:  "Docs done right improve your product"
 categories: tech-writing
+excerpt: "Since I started recording episodes for my podcast, only a few weeks ago, I've already had the chance to talk to some pretty amazing content people, such as Tom Johnson, Jacob Moses, Mark Baker and Christopher Gales (this last one still to be published). Of course, each of them has different thoughts on many aspects of the writing job, but one thought has emerged in every one of these conversations."
 ---
 
-Since I started recording episodes for my [podcast](/the-manuscript-podcast/), only a few weeks ago, I've already had the chance to talk to some pretty amazing content people, such as [Tom Johnson](https://idratherbewriting.com/aboutme/), [Jacob Moses](https://www.thenotboringtechwriter.com/), [Mark Baker](https://everypageispageone.com/about/) and [Christopher Gales](https://www.splunk.com/en_us/blog/author/cgales.html) (this last one still to be published).
+Since I started recording episodes for my <a href="https://brenobarreto.co//the-manuscript-podcast/" target="_blank">podcast</a>, only a few weeks ago, I've already had the chance to talk to some pretty amazing content people, such as <a href="https://idratherbewriting.com/aboutme/" target="_blank">Tom Johnson</a>, <a href="https://www.thenotboringtechwriter.com/" target="_blank">Jacob Moses</a>, <a href="https://everypageispageone.com/about/" target="_blank">Mark Baker</a> and <a href="https://www.splunk.com/en_us/blog/author/cgales.html" target="_blank">Christopher Gales</a> (this last one still to be published).
 
 Of course, each of them has different thoughts on many aspects of the writing job, but one thought has emerged in every one of these conversations (yeah, probably due to my own interest in it, I'll admit). It can be summarized like this:
 
