@@ -8,9 +8,20 @@ This is a selection of some of the books that have inspired me so far. I'll be a
 
 <br>
 
+#### Content Strategy
+
+<a href="https://www.amazon.com.br/Everything-Miscellaneous-Digital-Disorder-English-ebook/dp/B000R7PUW4/ref=sr_1_1" target="_blank">Everything is Miscellaneous</a> - David Weinberger
+
+<a href="https://www.amazon.com.br/dp/B06XCHL4VF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="_blank">Too Big to Know</a> - David Weinberger
+
+<hr>
+<br>
+
 #### Technical Writing and Documentation
 
 <a href="https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B078G5PV3Q" target="_blank">The Product is Docs</a> - Christopher Gales (+ Splunk team)
+
+<a href="http://www.lulu.com/shop/anne-gentle/docs-like-code/paperback/product-23487291.html" target="_blank">The Product is Docs</a> - Anne Gentle
 
 <hr>
 <br>
@@ -19,13 +30,13 @@ This is a selection of some of the books that have inspired me so far. I'll be a
 
 <a href="https://www.amazon.com/Design-People-Learn-Voices-Matter/dp/0321768434" target="_blank">Design for how people learn</a> - Julie Dirksen
 
-<a href="https://www.amazon.com/How-We-Learn-Surprising-Happens/dp/0812984293" target="_blank">How we learn</a> - Benedict Carey
+<a href="https://www.amazon.com/How-We-Learn-Surprising-Happens/dp/0812984293" target="_blank">How we Learn</a> - Benedict Carey
 
 <hr>
 <br>
 
 #### UX
-<a href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG" target="_blank">Don't make me think</a> - Steve Krug
+<a href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG" target="_blank">Don't Make me Think</a> - Steve Krug
 
 <hr>
 <br>
