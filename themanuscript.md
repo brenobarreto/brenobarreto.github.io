@@ -30,4 +30,3 @@ _Published on: February 17, 2020_
 In this episode, we interview **Mark Baker** who is the author of the book Every Page is Page One. Originally published in 2013, this book has become an absolute classic in the Content Strategy field. In this interview, Mark explains how turning web pages into self-contained topics is the way to make content that serves its purposes and gets found by the users.
 
 <iframe src="https://anchor.fm/themanuscript/embed/episodes/Every-Page-is-Still-Page-One-eb76fq" height="191.25px" width="750px" frameborder="0" scrolling="no"></iframe>
-
