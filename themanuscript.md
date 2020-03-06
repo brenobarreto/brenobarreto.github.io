@@ -13,7 +13,7 @@ _Published on: March 02, 2020_
 
 **Jacob Moses** is the creator of The Not-Boring Tech Writer podcast. In each episode, Jacob covers a new tech writing skill, with the goal of showing tools all of us can use to become better writers and proving this is far from a tedious career. In doing that, he helps to raise awareness about the field and improves the sense of a Tech Writing community.
 
-<iframe src="https://anchor.fm/themanuscript/embed/episodes/Every-Page-is-Still-Page-One-eb76fq" height="191.25px" width="750px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/themanuscript/embed/episodes/Focusing-on-skills-to-show-Tech-Writing-is-not-boring-eb6tsv" height="191.25px" width="750px" frameborder="0" scrolling="no"></iframe>
 
 
 ### Ep. 2 - How technical should a tech writer be?
@@ -29,5 +29,5 @@ _Published on: February 17, 2020_
 
 In this episode, we interview **Mark Baker** who is the author of the book Every Page is Page One. Originally published in 2013, this book has become an absolute classic in the Content Strategy field. In this interview, Mark explains how turning web pages into self-contained topics is the way to make content that serves its purposes and gets found by the users.
 
-<iframe src="https://anchor.fm/themanuscript/embed/episodes/Focusing-on-skills-to-show-Tech-Writing-is-not-boring-eb6tsv" height="191.25px" width="750px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/themanuscript/embed/episodes/Every-Page-is-Still-Page-One-eb76fq" height="191.25px" width="750px" frameborder="0" scrolling="no"></iframe>
 
