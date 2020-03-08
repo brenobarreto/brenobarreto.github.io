@@ -25,7 +25,7 @@
   fill: #f1502f;
   cursor: pointer; }
 
-p {
+p, div {
   line-height: 2; }
 
 /**
