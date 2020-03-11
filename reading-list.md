@@ -28,6 +28,15 @@ This is a selection of some of the books that have inspired me so far. I'll be a
 <hr>
 <br>
 
+#### UX Writing
+
+<a href="https://www.amazon.com/Strategic-Writing-Engagement-Conversion-Retention/dp/1492049395/ref=sr_1_1" target="_blank">Strategic Writing for UX</a> - Torrey Podmajersky
+
+<a href="https://www.amazon.com/busca-boas-pr%C3%A1ticas-Writing-Portuguese-ebook/dp/B07YYQJ1B7" target="_blank">Em busca de boas práticas de UX Writing (Portuguese Edition)</a> - Bruno Rodrigues
+
+<hr>
+<br>
+
 #### Instructional Design
 
 <a href="https://www.amazon.com/Design-People-Learn-Voices-Matter/dp/0321768434" target="_blank">Design for How People Learn</a> - Julie Dirksen
