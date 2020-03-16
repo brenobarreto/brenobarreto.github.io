@@ -8,6 +8,14 @@ In this podcast, we delve into the intersection of writing and the development o
 
 <br><br>
 
+### Ep. 4 - The paths for a writer towards senior positions in tech
+_Published on: March 16, 2020_
+
+**Christopher Gales** is the Senior Director of Documentation at Splunk. He has more than 20 years of experience in technical communications and engineering program management. In Splunk, he leads a team of 40+ writers, who form one of the best tech comm teams in the industry today. In this episode, he talks about reaching senior levels in a tech writing career, the organization of his team, the importance of customer feedback in our field, how to instill a documentation culture in our companies and what to look for when hiring writers.
+
+<iframe src="https://anchor.fm/themanuscript/embed/episodes/The-paths-for-a-writer-towards-senior-positions-in-tech-ebid83" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### Ep. 3 - Focusing on skills to show Tech Writing is not boring
 _Published on: March 02, 2020_
 
