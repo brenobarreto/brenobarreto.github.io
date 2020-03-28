@@ -67,6 +67,36 @@ p, div {
   line-height: 2;
 }
 
+//------ Podcast Player -----------//
+
+.podcastPlayer {
+  width: 280px;
+}
+
+@media (min-width: 400px) {
+  .podcastPlayer{
+    width: 350px;
+  }
+}
+
+@media (min-width: 500px) {
+  .podcastPlayer{
+    width: 450px;
+  }
+}
+
+@media (min-width: 700px) {
+  .podcastPlayer{
+    width: 650px;
+  }
+}
+
+@media (min-width: 900px) {
+  .podcastPlayer{
+    width: 750px;
+  }
+}
+
 // whiteglass also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
