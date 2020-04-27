@@ -8,6 +8,22 @@ In this podcast, we delve into the intersection of writing and the development o
 
 <br><br>
 
+### Ep. 6 - Spreading knowledge through writing in the biggest fintech in Latin America
+_Published on: April 13, 2020_
+
+In this episode of The Manuscript, we talk to **Paulo Victor**, a technical writer currently working for Nubank, the largest fintech in Latin America and one of the most innovative companies in the world. He explores the challenge of deciphering the financial universe for a knowledgeable internal audience, talks about the challenge of being the company's first tech writer, and addresses the advantages and disadvantages of being a writer with an engineering background.
+
+<iframe class="podcastPlayer" src="https://anchor.fm/themanuscript/embed/episodes/6-Spreading-knowledge-through-writing-in-the-biggest-fintech-in-Latin-America-ed9kpu" height="191.25px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
+### Ep. 5 - What you didn’t know about innovation (and storytelling)
+_Published on: March 30, 2020_
+
+In this episode, we interview **Sarah Arruda**, Executive Producer at Tendril Studio. Sarah is a creative producer, experimenting with new media technologies to bring the digital world to life in the physical space. Here she talks about the challenges and benefits of dealing with multidisciplinary projects, the integration of writing, storytelling and technology, the ways she interacts with the tech aspect of innovation, and the boundaries between innovation and creativity.
+
+<iframe class="podcastPlayer" src="https://anchor.fm/themanuscript/embed/episodes/5-What-you-didnt-know-about-innovation-and-storytelling-ec6n00" height="191.25px" frameborder="0" scrolling="no"></iframe>
+
+
 ### Ep. 4 - The paths for a writer towards senior positions in tech
 _Published on: March 16, 2020_
 
