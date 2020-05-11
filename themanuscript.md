@@ -8,6 +8,15 @@ In this podcast, we delve into the intersection of writing and the development o
 
 <br><br>
 
+
+### Ep. 7 - How to build an organization's personality with Tone and Voice
+_Published on: April 13, 2020_
+
+In this episode, we had the pleasure of interviewing **Mary K. Nielsen**, UX Content Strategist at Mailchimp. Balancing philosophical aspects of Tone and Voice, but also giving practical guidance, we discussed how to build a company's personality inside and outside digital products using this essential writing principle. Mailchimp is definitely a key reference when it comes to Tone and Voice within a company's communication strategy, and we had a chance to understand how its own T&V was built.
+
+<iframe class="podcastPlayer" src="https://anchor.fm/themanuscript/embed/episodes/7-How-to-build-an-organizations-personality-with-Tone-and-Voice-edjmef" height="191.25px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### Ep. 6 - Spreading knowledge through writing in the biggest fintech in Latin America
 _Published on: April 13, 2020_
 
