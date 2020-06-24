@@ -9,8 +9,24 @@ In this podcast, we delve into the intersection of writing and the development o
 <br><br>
 
 
+### Ep. 9 - Where design, tech and writing meet
+_Published on: May 25, 2020_
+
+In this episode we interviewed **Daniel Fosco**, Senior Product Designer at Booking.com. Exploring the relationship between design, writing and technology, Daniel shares his perspective on UX design processes, web design practices, as well as the collaboration with tech and UX writers. We balanced our conversation between practical advices for designing developer's experience, and abstract queries about design principles and typography. 
+
+<iframe class="podcastPlayer" src="https://anchor.fm/themanuscript/embed/episodes/9-Where-design--tech-and-writing-meet-efls6c" height="191.25px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
+### Ep. 8 - 40 countries, 7 languages: localization and global expansion
+_Published on: May 11, 2020_
+
+In this episode we were honoured to interview **Larissa Mansur**, head of localization and global expansion at Mindvalley. Mindvalley is the world's leading personal growth platform with 12 million students subscribed, and they have the mission of making their content accessible for 7 different languages. Having lived in more than 8 countries herself, Larissa truly understands the impact of language and culture, and we talk about the power and challenges of localization, and the particularities of it within the tech industry.
+
+<iframe class="podcastPlayer" src="https://anchor.fm/themanuscript/embed/episodes/8-40-countries--7-languages-localization-and-global-expansion-eembkd" height="191.25px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### Ep. 7 - How to build an organization's personality with Tone and Voice
-_Published on: April 13, 2020_
+_Published on: April 27, 2020_
 
 In this episode, we had the pleasure of interviewing **Mary K. Nielsen**, UX Content Strategist at Mailchimp. Balancing philosophical aspects of Tone and Voice, but also giving practical guidance, we discussed how to build a company's personality inside and outside digital products using this essential writing principle. Mailchimp is definitely a key reference when it comes to Tone and Voice within a company's communication strategy, and we had a chance to understand how its own T&V was built.
 
