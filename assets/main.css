@@ -25,6 +25,10 @@
   fill: #f1502f;
   cursor: pointer; }
 
+.fenestra-logo:hover {
+  transform: scale(1.2);
+  cursor: pointer; }
+
 p, div {
   line-height: 2; }
 
