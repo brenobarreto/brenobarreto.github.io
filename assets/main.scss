@@ -62,6 +62,11 @@ $on-laptop: 800px;
   cursor: pointer;
 }
 
+.fenestra-logo:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
 //----- Text in paragraphs and divs -----//
 p, div {
   line-height: 2;
