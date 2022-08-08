@@ -4,7 +4,7 @@ title: "Reading List"
 permalink: /reading-list/
 ---
 
-This is a selection of some of the books that have inspired me so far. I'll be adding more books to this list soon.
+This is a selection of some of the books that have inspired me so far.
 
 <br>
 
@@ -16,6 +16,7 @@ This is a selection of some of the books that have inspired me so far. I'll be a
 
 <a href="https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507" target="_blank">Inspired: How to Create Tech Products Customers Love</a> - Marty Cagan
 
+<br>
 
 ### On the Shelf
 
