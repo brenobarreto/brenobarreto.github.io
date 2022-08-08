@@ -8,6 +8,17 @@ This is a selection of some of the books that have inspired me so far. I'll be a
 
 <br>
 
+### Reading Now
+
+<a href="https://www.amazon.com/Systems-Performance-Brendan-Gregg-dp-0136820158/dp/0136820158" target="_blank">Systems Performance: Enterprise and the Cloud</a> - Brendan Gregg
+
+<a href="https://www.amazon.com/Art-Prolog-Advanced-Programming-Techniques/dp/0262192500" target="_blank">The Art of Prolog: Advanced Programming Techniques</a> - Leon Sterling and Ehud Shapiro
+
+<a href="https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507" target="_blank">Inspired: How to Create Tech Products Customers Love</a> - Marty Cagan
+
+
+### On the Shelf
+
 #### Content Strategy
 
 <a href="https://www.amazon.com.br/Everything-Miscellaneous-Digital-Disorder-English-ebook/dp/B000R7PUW4/ref=sr_1_1" target="_blank">Everything is Miscellaneous</a> - David Weinberger
