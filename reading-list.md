@@ -12,6 +12,8 @@ This is a selection of some of the books that have inspired me so far.
 
 <a href="https://www.amazon.com/Systems-Performance-Brendan-Gregg-dp-0136820158/dp/0136820158" target="_blank">Systems Performance: Enterprise and the Cloud</a> - Brendan Gregg
 
+<a href="https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321" target="_blank">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a> - Martin Kleppmann
+
 <a href="https://www.amazon.com/Art-Prolog-Advanced-Programming-Techniques/dp/0262192500" target="_blank">The Art of Prolog: Advanced Programming Techniques</a> - Leon Sterling and Ehud Shapiro
 
 <a href="https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507" target="_blank">Inspired: How to Create Tech Products Customers Love</a> - Marty Cagan
